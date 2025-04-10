@@ -61,7 +61,7 @@ def monitor_temperature():
 if __name__ == "__main__":
     print("=" * 50)
     print("WARNING: This program will stress your system and generate heat.")
-    print("Use at your own risk and only on devices you're willing to damage.")
+    print("Use at your own risk.")
     print("Press Ctrl+C to stop the program.")
     print("=" * 50)
     
